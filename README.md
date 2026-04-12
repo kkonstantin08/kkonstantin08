@@ -9,7 +9,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@kk0sta-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kk0sta)
 [![Email](https://img.shields.io/badge/Email-i@kkutashov.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i@kkutashov.ru)
-[![Profile views](https://komarev.com/ghpvc/?username=kkonstantin08&style=for-the-badge)](https://github.com/kkonstantin08)
 
 </div>
 
