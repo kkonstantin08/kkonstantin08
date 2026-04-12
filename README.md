@@ -51,11 +51,6 @@ Outside of coding, I have been playing **drums for 8 years**.
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kkonstantin08&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkonstantin08&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kkonstantin08&theme=tokyonight&hide_border=true" />
 </div>
 
