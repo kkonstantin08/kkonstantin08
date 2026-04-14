@@ -38,7 +38,7 @@ Outside of coding, I have been playing **drums for 8 years**.
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,vue,git,docker,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,html,css,vue,git,docker,postgres" />
 </p>
 
 <p>
