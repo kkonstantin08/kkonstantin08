@@ -5,7 +5,7 @@
 
 ### Student developer from Innopolis University
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=760&lines=Building+useful+projects;Python+%7C+TypeScript+%7C+JavaScript;Student+developer+open+to+internship+opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=760&lines=Building+useful+projects;Python+%7C+JavaScript+%7C+Java;Student+developer+open+to+internship+opportunities" alt="Typing SVG" />
 
 [![Telegram](https://img.shields.io/badge/Telegram-@kk0sta-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kk0sta)
 [![Email](https://img.shields.io/badge/Email-i@kkutashov.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i@kkutashov.ru)
